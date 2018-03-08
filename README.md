@@ -1,7 +1,8 @@
 myetherwallet
 How To
 
-    Go to https://www.myetherwallet.com/.
+    Go to https://www.myetherwallet.com/
+    
     Enter a strong but easy to remember password. Do not forget it.
         This encrypts (protects) your private key. It does not generate your private key. This password alone will not be enough to access your Ether.
     Click the "Create New Wallet" button.
